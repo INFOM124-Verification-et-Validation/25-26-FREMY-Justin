@@ -16,6 +16,7 @@
         <junit.version>4.13.2</junit.version>
         <junit.vintage.version>5.9.3</junit.vintage.version>
         <assertj.version>3.9.1</assertj.version>
+        <sonar.organization>infom124-verification-et-validation</sonar.organization>
     </properties>
 
     <dependencies>
